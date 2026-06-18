@@ -10,6 +10,7 @@ An AI-powered In-silico simulation platform powered by XGBoost Regressor to pred
 * Clean & Modern UI: Interactive dashboard built using Gradio (Monochrome Theme).
 
 ## App Interface Demo
-<img width="1080" height="4278" alt="1000486791" src="https://github.com/user-attachments/assets/a9767193-efee-42ff-abea-cf97b2c170ad" />
+<img width="1030" height="4276" alt="1000486795" src="https://github.com/user-attachments/assets/30320e34-351b-48f1-bc63-4dd45e3ca978" />
+
 
 
